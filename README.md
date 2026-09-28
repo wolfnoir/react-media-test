@@ -1,8 +1,8 @@
-# Halo Media Skill Assessment Website
+# [Company] Skill Assessment Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the deployed website [here.](https://wolfnoir.github.io/halo-media-test/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the deployed website [here.](https://wolfnoir.github.io/react-media-test/)
 
-(or copy and paste this into your prefered web browser: https://wolfnoir.github.io/halo-media-test/)
+(or copy and paste this into your prefered web browser: https://wolfnoir.github.io/react-media-test/)
 
 ## React Packages Used
 
